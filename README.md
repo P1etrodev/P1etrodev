@@ -3,10 +3,6 @@
 
 <p>Welcome to my GitHub profile. I hope you like what I do 🫡</p>
 
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png'/>
-
-**Here's a little description about me**
-
 Im a Data Scientist and Backend Developer currently specialized on APIs and scripting. I have some background working with [ExpressJS](https://expressjs.com), but I preffer working with [Django REST Framework](https://www.django-rest-framework.org/) or [FastAPI](https://fastapi.tiangolo.com/).
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png' align='center'>
 
