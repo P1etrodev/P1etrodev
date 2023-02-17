@@ -24,7 +24,11 @@ Plus, I have some time practicing by myself and at some Startups such as [Umoob]
 <a href='https://nodejs.org/en-US/'><img style='width: 30px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg'/></a>
 
 </div>
-<img height='30px'>
+<div align='center'>
+<img height='25px'>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png' align='center'>
+</div>
+<img height='25px'>
 <div align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=sylph1de&show_icons=true&theme=tokyonight'/>
 </div>
