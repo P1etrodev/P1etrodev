@@ -30,5 +30,5 @@ Plus, I have some time practicing by myself and at some Startups such as [Umoob]
 </div>
 <img height='25px'>
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=sylph1de&show_icons=true&theme=tokyonight'/>
+<img src='https://github-readme-stats.vercel.app/api?username=p1etrodev&show_icons=true&theme=tokyonight'/>
 </div>
