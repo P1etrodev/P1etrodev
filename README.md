@@ -5,6 +5,11 @@
 
 Im a Data Scientist and Backend Developer currently specialized on APIs and scripting. I have some background working with [ExpressJS](https://expressjs.com), but I preffer working with [Django REST Framework](https://www.django-rest-framework.org/) or [FastAPI](https://fastapi.tiangolo.com/).
 
+<div align='center'>
+<img height='25px'>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png' align='center'>
+</div>
+
 <h3>Programming languages, libraries and tools</h3>
 <a href='https://www.python.org/'><img style='width: 30px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'><img style='width: 30px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg'/></a>
