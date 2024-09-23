@@ -4,12 +4,6 @@
 <p>Welcome to my GitHub profile. I hope you like what I do 🫡</p>
 
 Im a Data Scientist and Backend Developer currently specialized on APIs and scripting. I have some background working with [ExpressJS](https://expressjs.com), but I preffer working with [Django REST Framework](https://www.django-rest-framework.org/) or [FastAPI](https://fastapi.tiangolo.com/).
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png' align='center'>
-
-### Studies
-
-I got my Data Scientist certificate at [SoyHenry](https://www.soyhenry.com/)'s Academy.
-Plus, I have some time practicing by myself and at some Startups such as [Umoob](https://www.umoob.com/) and I'm currently working as a Data Scientist at [WeBookYou](https://webookyou.com/).
 
 <h3>Programming languages, libraries and tools</h3>
 <a href='https://www.python.org/'><img style='width: 30px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'/></a>
